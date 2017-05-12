@@ -1,0 +1,10 @@
+{
+  "count": 4,
+  "persons":
+  [
+    {"firstName":"Tony","lastName":"Stark","isLeftHanded":false},
+    {"firstName":"Max","lastName":"Mustermann","isLeftHanded":true},
+    {"firstName":"Stefan","lastName":"Raab","isLeftHanded":false},
+    {"firstName":"Phillip", "lastName":"D.","isLeftHanded":false}
+  ]
+}
